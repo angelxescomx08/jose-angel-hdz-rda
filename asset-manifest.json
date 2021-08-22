@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/jose-angel-hdz-rda/static/css/main.14994747.chunk.css",
+    "main.js": "/jose-angel-hdz-rda/static/js/main.f244253e.chunk.js",
+    "main.js.map": "/jose-angel-hdz-rda/static/js/main.f244253e.chunk.js.map",
+    "runtime-main.js": "/jose-angel-hdz-rda/static/js/runtime-main.cf8987ed.js",
+    "runtime-main.js.map": "/jose-angel-hdz-rda/static/js/runtime-main.cf8987ed.js.map",
+    "static/js/2.3e9832a6.chunk.js": "/jose-angel-hdz-rda/static/js/2.3e9832a6.chunk.js",
+    "static/js/2.3e9832a6.chunk.js.map": "/jose-angel-hdz-rda/static/js/2.3e9832a6.chunk.js.map",
+    "index.html": "/jose-angel-hdz-rda/index.html",
+    "static/css/main.14994747.chunk.css.map": "/jose-angel-hdz-rda/static/css/main.14994747.chunk.css.map",
+    "static/js/2.3e9832a6.chunk.js.LICENSE.txt": "/jose-angel-hdz-rda/static/js/2.3e9832a6.chunk.js.LICENSE.txt",
+    "static/media/1.jpg.e42cc6a6.jpg": "/jose-angel-hdz-rda/static/media/1.jpg.e42cc6a6.jpg",
+    "static/media/angel.24c226a0.jpg": "/jose-angel-hdz-rda/static/media/angel.24c226a0.jpg",
+    "static/media/app.4ae26f21.svg": "/jose-angel-hdz-rda/static/media/app.4ae26f21.svg",
+    "static/media/atractor.1a0fb1b3.jpg": "/jose-angel-hdz-rda/static/media/atractor.1a0fb1b3.jpg",
+    "static/media/facebook.bdb2fc10.svg": "/jose-angel-hdz-rda/static/media/facebook.bdb2fc10.svg",
+    "static/media/github.e0df113a.svg": "/jose-angel-hdz-rda/static/media/github.e0df113a.svg",
+    "static/media/gmail.70b56411.svg": "/jose-angel-hdz-rda/static/media/gmail.70b56411.svg",
+    "static/media/karuta.3f972495.jpg": "/jose-angel-hdz-rda/static/media/karuta.3f972495.jpg",
+    "static/media/menu.28107808.svg": "/jose-angel-hdz-rda/static/media/menu.28107808.svg",
+    "static/media/montecarlo.d1320b22.jpg": "/jose-angel-hdz-rda/static/media/montecarlo.d1320b22.jpg",
+    "static/media/person.a296afc6.svg": "/jose-angel-hdz-rda/static/media/person.a296afc6.svg",
+    "static/media/senales.502909ca.jpg": "/jose-angel-hdz-rda/static/media/senales.502909ca.jpg",
+    "static/media/sort.3fb28f33.jpg": "/jose-angel-hdz-rda/static/media/sort.3fb28f33.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf8987ed.js",
+    "static/js/2.3e9832a6.chunk.js",
+    "static/css/main.14994747.chunk.css",
+    "static/js/main.f244253e.chunk.js"
+  ]
+}
