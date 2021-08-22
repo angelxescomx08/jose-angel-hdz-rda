@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jose-angel-hdz-rda/static/css/main.14994747.chunk.css",
-    "main.js": "/jose-angel-hdz-rda/static/js/main.f244253e.chunk.js",
-    "main.js.map": "/jose-angel-hdz-rda/static/js/main.f244253e.chunk.js.map",
+    "main.js": "/jose-angel-hdz-rda/static/js/main.a36491d6.chunk.js",
+    "main.js.map": "/jose-angel-hdz-rda/static/js/main.a36491d6.chunk.js.map",
     "runtime-main.js": "/jose-angel-hdz-rda/static/js/runtime-main.cf8987ed.js",
     "runtime-main.js.map": "/jose-angel-hdz-rda/static/js/runtime-main.cf8987ed.js.map",
     "static/js/2.3e9832a6.chunk.js": "/jose-angel-hdz-rda/static/js/2.3e9832a6.chunk.js",
@@ -11,6 +11,7 @@
     "static/css/main.14994747.chunk.css.map": "/jose-angel-hdz-rda/static/css/main.14994747.chunk.css.map",
     "static/js/2.3e9832a6.chunk.js.LICENSE.txt": "/jose-angel-hdz-rda/static/js/2.3e9832a6.chunk.js.LICENSE.txt",
     "static/media/1.jpg.e42cc6a6.jpg": "/jose-angel-hdz-rda/static/media/1.jpg.e42cc6a6.jpg",
+    "static/media/CV.eab681ba.pdf": "/jose-angel-hdz-rda/static/media/CV.eab681ba.pdf",
     "static/media/angel.24c226a0.jpg": "/jose-angel-hdz-rda/static/media/angel.24c226a0.jpg",
     "static/media/app.4ae26f21.svg": "/jose-angel-hdz-rda/static/media/app.4ae26f21.svg",
     "static/media/atractor.1a0fb1b3.jpg": "/jose-angel-hdz-rda/static/media/atractor.1a0fb1b3.jpg",
@@ -28,6 +29,6 @@
     "static/js/runtime-main.cf8987ed.js",
     "static/js/2.3e9832a6.chunk.js",
     "static/css/main.14994747.chunk.css",
-    "static/js/main.f244253e.chunk.js"
+    "static/js/main.a36491d6.chunk.js"
   ]
 }
