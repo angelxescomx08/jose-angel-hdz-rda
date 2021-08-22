@@ -4,6 +4,7 @@ import gmail from '../img/gmail.svg'
 import facebook from '../img/facebook.svg'
 import github from '../img/github.svg'
 import printInDOMNode from '../js/printInDOMNode'
+import pdf from '../pdf/CV.pdf'
 import { useEffect } from 'react'
 
 export default function Typical({ language,setShowMenu }) {
@@ -14,7 +15,7 @@ export default function Typical({ language,setShowMenu }) {
             "you never stop learning, just go ahead and try to make life easy :D."] : [
             "Soy José Ángel un futuro ingeniero de software que estudia en ESCOM-IPN. ",
             "Yo amo el desarrolloweb, pienso que la web es la plataforma del futuro, ",
-            "nunca paras de aprender, solo sigue adelante y trata de hacer la vida más fácil: D. "
+            "nunca paras de aprender, solo sigue adelante y trata de hacer la vida más fácil :D. "
         ]
         const DOMNode = document.getElementById('text')
         return printInDOMNode(DOMNode, text)
@@ -36,7 +37,7 @@ export default function Typical({ language,setShowMenu }) {
                 <a href="https://www.facebook.com/angelx105" target="_blank" rel="noreferrer"><img className="container_datos_img" src={facebook} alt="facebook logo" /></a>
                 <a href="https://github.com/angelxescomx08" target="_blank" rel="noreferrer"><img className="container_datos_img" src={github} alt="github logo" /></a>
             </article>
-            <a href="/descargar_cv" className="resume">{language ? 'MY CURRICULUM' : 'MI CURRÍCULUM'}</a>
+            <a href={pdf} target="_blank" rel="noreferrer" className="resume">{language ? 'MY CURRICULUM' : 'MI CURRÍCULUM'}</a>
 
         </section>
     )
