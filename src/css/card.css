@@ -1,0 +1,109 @@
+.h2{
+  padding: 0.5em;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.card {
+  position:relative;
+  display: flex;
+  flex-flow: column wrap;
+  margin: 1em 0.4em;
+  width: 23em;
+  height: 40em;
+  overflow: hidden;
+  background: #f4dfd0;
+  box-shadow: 2px 2px 3px #000000;
+  border-radius: 0.2em;
+  transition-duration: 0.3s;
+}
+
+.card:hover {
+  box-shadow: 7px 7px 15px #000000;
+}
+
+.card_img {
+  width: 100%;
+  height: 15em;
+}
+
+.card_see_on_github{
+  position: absolute;
+  top: 11em;
+  align-self: center;
+  padding: 0.5em;
+  background: #1E2022;
+  color: #F5F5F5;
+  border-radius: 0.2rem;
+}
+
+.card_a {
+  display: block;
+  text-align: center;
+  margin-top: -1.7rem;
+  cursor: default;
+}
+
+.card_github {
+  width: 3rem;
+  cursor: pointer;
+}
+
+.card_github:hover {
+    -webkit-filter: invert(40%) grayscale(100%) brightness(100%) sepia(100%) hue-rotate(-50deg) saturate(400%) contrast(2);
+    filter: invert(40%) grayscale(100%) brightness(100%) sepia(100%) hue-rotate(-50deg) saturate(400%) contrast(2);
+}
+
+.card_h3 {
+  padding-top: 1em;
+  padding-left: 1em;
+}
+
+.card_p {
+  padding: 1em;
+  text-align: justify;
+}
+
+.container_lenguajes{
+  position: absolute;
+  bottom: 2em;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.container_lenguajes-fondo{
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.lenguajes{
+  padding: 0.2em .5em;
+  margin: 0.5em;
+  background: #52616B;
+  color: #F5F5F5;
+  border-radius: 1em;
+}
+
+.container_link_web{
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 2em;
+  background: #CDBBA7;
+}
+
+.link_web{
+  padding: .5em;
+  color: #111111;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 1em;
+}
+
+.link_web:hover{
+  color: #FDEFEF;
+}
