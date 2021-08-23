@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jose-angel-hdz-rda/static/css/main.14994747.chunk.css",
-    "main.js": "/jose-angel-hdz-rda/static/js/main.a36491d6.chunk.js",
-    "main.js.map": "/jose-angel-hdz-rda/static/js/main.a36491d6.chunk.js.map",
+    "main.js": "/jose-angel-hdz-rda/static/js/main.f334f855.chunk.js",
+    "main.js.map": "/jose-angel-hdz-rda/static/js/main.f334f855.chunk.js.map",
     "runtime-main.js": "/jose-angel-hdz-rda/static/js/runtime-main.cf8987ed.js",
     "runtime-main.js.map": "/jose-angel-hdz-rda/static/js/runtime-main.cf8987ed.js.map",
     "static/js/2.3e9832a6.chunk.js": "/jose-angel-hdz-rda/static/js/2.3e9832a6.chunk.js",
@@ -18,7 +18,7 @@
     "static/media/facebook.bdb2fc10.svg": "/jose-angel-hdz-rda/static/media/facebook.bdb2fc10.svg",
     "static/media/github.e0df113a.svg": "/jose-angel-hdz-rda/static/media/github.e0df113a.svg",
     "static/media/gmail.70b56411.svg": "/jose-angel-hdz-rda/static/media/gmail.70b56411.svg",
-    "static/media/karuta.3f972495.jpg": "/jose-angel-hdz-rda/static/media/karuta.3f972495.jpg",
+    "static/media/karuta.6daeda1d.jpg": "/jose-angel-hdz-rda/static/media/karuta.6daeda1d.jpg",
     "static/media/menu.28107808.svg": "/jose-angel-hdz-rda/static/media/menu.28107808.svg",
     "static/media/montecarlo.d1320b22.jpg": "/jose-angel-hdz-rda/static/media/montecarlo.d1320b22.jpg",
     "static/media/person.a296afc6.svg": "/jose-angel-hdz-rda/static/media/person.a296afc6.svg",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.cf8987ed.js",
     "static/js/2.3e9832a6.chunk.js",
     "static/css/main.14994747.chunk.css",
-    "static/js/main.a36491d6.chunk.js"
+    "static/js/main.f334f855.chunk.js"
   ]
 }
