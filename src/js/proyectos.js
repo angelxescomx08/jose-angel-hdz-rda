@@ -5,8 +5,43 @@ import fourier from '../img/proyectos/fourier.jpg'
 import karuta from '../img/proyectos/karuta.jpg'
 import montecarlo from '../img/proyectos/montecarlo.jpg'
 import sort from '../img/proyectos/sort.jpg'
+import chat_simple from '../img/proyectos/chat-simple.jpg'
+import rsajava from '../img/proyectos/rsa-keys.jpg'
 
 const carta = [
+
+    {
+        "id-eng": 'SimpleChat',
+        "id-esp": "ChatSimple",
+        "img": chat_simple,
+        "github": 'https://github.com/angelxescomx08/chat-simple',
+        "tittle-eng": 'Simple chat application',
+        "tittle-esp": 'Aplicación simple de un chat',
+        "english": <>
+            <span>
+                This application is a simple chat in which you can message with all the users that are connected
+                in that moment.
+            </span>
+            <br/><br/>
+            <span>
+                The app was created using <b>express</b> and <b>socket IO</b>. This is an experimental project to
+                understand the basis of these tools.
+            </span>
+        </>,
+        "spanish": <>
+            <span>
+                Esta aplicación es un chat simple en el que puedes mensajearte con todos los usuarios que estan conectados
+                en ese momento.
+            </span>
+            <br/><br/>
+            <span>
+                La aplicación fue creada usando <b>express</b> y <b>socket IO</b>. Este es un proyecto experimental
+                para entender lo básico de estas herramientas.
+            </span>
+        </>,
+        "lenguajes": ['react', 'Nodejs', 'express','socket IO'],
+        "link_web": 'https://angelxescomx08.github.io/cliente-chat-simple/'
+    },
 
     {
         "id-eng": 'Karuta',
@@ -195,6 +230,39 @@ const carta = [
         </>,
         "lenguajes": ['javascript', 'react', 'html', 'css', 'algorithms'],
         "link_web": 'https://angelxescomx08.github.io/ordenamiento/'
+    },
+    //edit
+    {
+        "id-eng": 'RSAJavaEncryptDecrypt',
+        "id-esp": 'RSAJavaCifrarDescifrar',
+        "img": rsajava,
+        "github": 'https://github.com/angelxescomx08/rsa-cifrar-descifrar-java',
+        "tittle-esp": 'RSA cifrar y descifrar',
+        "tittle-eng": 'RSA encrypt and decrypt',
+        "english": <>
+            <span>
+                <b>RSA</b> is an algorithm to encrypt and decrypt that uses a public key and a private key. The idea
+                is to encrypt using one of the keys and decrypt using the other one, this will bring security depending on
+                which one you used, for example if you used the public key to encrypt you will have confidentiality
+                instead of authentication.
+            </span>
+            <br /><br />
+            <span>
+                This project creates the two keys and uses them to encrypt and decrypt a file.
+            </span>
+        </>,
+        "spanish": <>
+            <span>
+                <b>RSA</b> es un algoritmo para cifrar y descifrar que usa una llave publica y una llave privada. La idea
+                es cifrar usando una de las llaves y descifrar usundo la otra, esto traerá seguridad dependiendo de cual
+                usuaste, por ejemplo si usaste la llave publica para cifrar tendrás confidencialidad en vez de autenticación.
+            </span>
+            <br/><br/>
+            <span>
+                Este proyecto crea las dos llaves y las usa para cifrar y descifrar un archivo.
+            </span>
+        </>,
+        "lenguajes": ['java', 'RSA']
     },
 
     {
