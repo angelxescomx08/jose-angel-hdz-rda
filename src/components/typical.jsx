@@ -14,7 +14,7 @@ export default function Typical({ language,setShowMenu }) {
             "and I'm interested in machine learning and mobile applications. ",
             "you never stop learning, just go ahead and try to make life easy :D."] : [
             "Soy José Ángel un futuro ingeniero de software que estudia en ESCOM-IPN. ",
-            "Yo amo el desarrolloweb, pienso que la web es la plataforma del futuro, ",
+            "Yo amo el desarrollo web, pienso que la web es la plataforma del futuro, ",
             "nunca paras de aprender, solo sigue adelante y trata de hacer la vida más fácil :D. "
         ]
         const DOMNode = document.getElementById('text')

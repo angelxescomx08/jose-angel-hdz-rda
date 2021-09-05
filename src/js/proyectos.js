@@ -7,6 +7,9 @@ import montecarlo from '../img/proyectos/montecarlo.jpg'
 import sort from '../img/proyectos/sort.jpg'
 import chat_simple from '../img/proyectos/chat-simple.jpg'
 import rsajava from '../img/proyectos/rsa-keys.jpg'
+import chat_python from '../img/proyectos/chat-python.jpg'
+import compilador_booleanas from '../img/proyectos/bompilador-booleanas.jpg'
+import compilador_complejos from '../img/proyectos/compilador-complejos.jpg'
 
 const carta = [
 
@@ -231,7 +234,39 @@ const carta = [
         "lenguajes": ['javascript', 'react', 'html', 'css', 'algorithms'],
         "link_web": 'https://angelxescomx08.github.io/ordenamiento/'
     },
-    //edit
+
+    {
+        "id-eng": 'ChatPython',
+        "id-esp": 'PythonChat',
+        "img": chat_python,
+        "github": 'https://github.com/angelxescomx08/chat-python',
+        "tittle-esp": 'Python chat',
+        "tittle-eng": 'Chat python',
+        "english": <>
+            <span>
+                An application in python that uses sockets to send messages to other users, this app allows you to send
+                files that will be saved in the current directory.
+            </span>
+            <br /><br />
+            <span>
+                The application was made in order to understand how the sockets in python works and how is the way that
+                a client an a server send a file, and understand the basis of a server.
+            </span>
+        </>,
+        "spanish": <>
+            <span>
+                Una aplicación en python que utiliza sockets para poder enviar mensajes a otros usuarios, te permite enviar
+                archivos que serán guardados en la carpeta actual.
+            </span>
+            <br/><br/>
+            <span>
+                La aplicación fue hecha con la intención de aprender de los sockets en python y como funciona el envió de
+                archivos entre un cliente y un servidor, también para aprender las bases de un servidor no bloqueante.
+            </span>
+        </>,
+        "lenguajes": ['python', 'sockets']
+    },
+
     {
         "id-eng": 'RSAJavaEncryptDecrypt',
         "id-esp": 'RSAJavaCifrarDescifrar',
@@ -263,6 +298,78 @@ const carta = [
             </span>
         </>,
         "lenguajes": ['java', 'RSA']
+    },
+
+    {
+        "id-eng": 'ComplexNumberExpressionCompiler',
+        "id-esp": 'CompiladorExpresionesNumerosComplejos',
+        "img": compilador_complejos,
+        "github": 'https://github.com/angelxescomx08/Compiladores_practica3_complejos',
+        "tittle-esp": 'Compilador de expressiones de números complejos',
+        "tittle-eng": 'Complex number expression compiler',
+        "english": <>
+            <span>
+                A compiler that is similar to a small programming language for complex numbers, the compiler uses a stack
+                to save variables that you can use to do some operations similar to the other languages like javascript
+                or python. 
+            </span>
+            <br /><br />
+            <span>
+                You can do operations like add, subtract, multiply and divide also you can do sine and cosine of an operation
+                or variable, and exponential operations.
+            </span>
+            <br /><br />
+            <span>
+                This project was created with c language using yacc a tool that allows us to create sintactic analyzers.
+            </span>
+        </>,
+        "spanish": <>
+            <span>
+                Un compilador que es similar a un pequeño lenguaje de programación para números complejos, el compilador usa
+                una pila para guardar variables que puedes usar para hacer algunas operaciones similar otros lenguajes como
+                javascript o python.
+            </span>
+            <br/><br/>
+            <span>
+                Puedes hacer operaciones como sumar, restar, multiplicar, dividir, ademas puedes hacer seno y coseno de
+                una operacion o variable y operaciones exponenciales.
+            </span>
+            <br/><br/>
+            <span>
+                Este proyeco fue creado con el lenguaje c usando yacc una herramienta que nos permite crear analizadores
+                sintácticos.
+            </span>
+        </>,
+        "lenguajes": ['c', 'compiler', 'yacc', 'complex numbers']
+    },
+
+    {
+        "id-eng": 'BooleanExpressionCompiler',
+        "id-esp": 'CompiladorExpresionesBooleanas',
+        "img": compilador_booleanas,
+        "github": 'https://github.com/angelxescomx08/compilador-expresiones-boleanas',
+        "tittle-esp": 'Compilador de expressiones booleanas',
+        "tittle-eng": 'Boolean expression compiler',
+        "english": <>
+            <span>
+                A little compiler that can evaluate boolean expressions returning <b>t (true)</b> or <b>f (false)</b>.
+            </span>
+            <br /><br />
+            <span>
+                This project was created with c language using yacc a tool that allows us to create sintactic analyzers.
+            </span>
+        </>,
+        "spanish": <>
+            <span>
+                Un pequeño compilador que puede evaluar expresiones booleanas retornando <b>t (verdadero)</b> or <b>f (falso)</b>.
+            </span>
+            <br/><br/>
+            <span>
+                Este proyeco fue creado con el lenguaje c usando yacc una herramienta que nos permite crear analizadores
+                sintácticos.
+            </span>
+        </>,
+        "lenguajes": ['c', 'compiler', 'yacc', 'boolean expressions']
     },
 
     {
