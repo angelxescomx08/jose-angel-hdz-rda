@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jose-angel-hdz-rda/static/css/main.6fd05fd0.chunk.css",
-    "main.js": "/jose-angel-hdz-rda/static/js/main.30047665.chunk.js",
-    "main.js.map": "/jose-angel-hdz-rda/static/js/main.30047665.chunk.js.map",
+    "main.js": "/jose-angel-hdz-rda/static/js/main.2fc60d3a.chunk.js",
+    "main.js.map": "/jose-angel-hdz-rda/static/js/main.2fc60d3a.chunk.js.map",
     "runtime-main.js": "/jose-angel-hdz-rda/static/js/runtime-main.cf8987ed.js",
     "runtime-main.js.map": "/jose-angel-hdz-rda/static/js/runtime-main.cf8987ed.js.map",
     "static/js/2.3e9832a6.chunk.js": "/jose-angel-hdz-rda/static/js/2.3e9832a6.chunk.js",
@@ -15,7 +15,10 @@
     "static/media/angel.24c226a0.jpg": "/jose-angel-hdz-rda/static/media/angel.24c226a0.jpg",
     "static/media/app.4ae26f21.svg": "/jose-angel-hdz-rda/static/media/app.4ae26f21.svg",
     "static/media/atractor.1a0fb1b3.jpg": "/jose-angel-hdz-rda/static/media/atractor.1a0fb1b3.jpg",
+    "static/media/bompilador-booleanas.ff149586.jpg": "/jose-angel-hdz-rda/static/media/bompilador-booleanas.ff149586.jpg",
+    "static/media/chat-python.c6d800a0.jpg": "/jose-angel-hdz-rda/static/media/chat-python.c6d800a0.jpg",
     "static/media/chat-simple.46315375.jpg": "/jose-angel-hdz-rda/static/media/chat-simple.46315375.jpg",
+    "static/media/compilador-complejos.c2f8c187.jpg": "/jose-angel-hdz-rda/static/media/compilador-complejos.c2f8c187.jpg",
     "static/media/facebook.bdb2fc10.svg": "/jose-angel-hdz-rda/static/media/facebook.bdb2fc10.svg",
     "static/media/github.e0df113a.svg": "/jose-angel-hdz-rda/static/media/github.e0df113a.svg",
     "static/media/gmail.70b56411.svg": "/jose-angel-hdz-rda/static/media/gmail.70b56411.svg",
@@ -31,6 +34,6 @@
     "static/js/runtime-main.cf8987ed.js",
     "static/js/2.3e9832a6.chunk.js",
     "static/css/main.6fd05fd0.chunk.css",
-    "static/js/main.30047665.chunk.js"
+    "static/js/main.2fc60d3a.chunk.js"
   ]
 }
