@@ -10,6 +10,7 @@ import rsajava from '../img/proyectos/rsa-keys.jpg'
 import chat_python from '../img/proyectos/chat-python.jpg'
 import compilador_booleanas from '../img/proyectos/bompilador-booleanas.jpg'
 import compilador_complejos from '../img/proyectos/compilador-complejos.jpg'
+import money_time_energy from '../img/proyectos/money-time-energy.jpg'
 
 const carta = [
 
@@ -441,6 +442,37 @@ const carta = [
         "lenguajes": ['javascript', 'html', 'css'],
         "link_web": 'https://angelxescomx08.github.io/Fourier/'
     },
+
+    {   
+        "id-eng": 'MoneyTimeEnergy',
+        "id-esp": 'MoneyTimeEnergy',
+        "img": money_time_energy,
+        "github": 'https://github.com/angelxescomx08/money-time-energy',
+        "tittle-esp": 'Dinero, tiempo y energía',
+        "tittle-eng": 'Money, time and energy',
+        "english": <>
+            <span>
+                A one night project that was based on a joke about that you can't have these three things
+                money, time and energy at the same time.
+            </span>
+            <br /><br />
+            <span>
+                When you push one of the three options the last option you clicked will be locked.
+            </span>
+        </>,
+        "spanish": <>
+            <span>
+                Un proyecto de una noche basado en una broma acerca de que no puedes tener estas tres cosas tiempo,
+                dinero y energía al mismo tiempo.
+            </span>
+            <br/><br/>
+            <span>
+                Cuando presiones uno de los tres botones la última opción que hayas hecho click será desactivada.
+            </span>
+        </>,
+        "lenguajes": ['javascript', 'react', 'css','one night'],
+        "link_web": 'https://angelxescomx08.github.io/money-time-energy/'
+    }
 
 ]
 
