@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/jose-angel-hdz-rda/static/css/main.6fd05fd0.chunk.css",
-    "main.js": "/jose-angel-hdz-rda/static/js/main.2fc60d3a.chunk.js",
-    "main.js.map": "/jose-angel-hdz-rda/static/js/main.2fc60d3a.chunk.js.map",
+    "main.css": "/jose-angel-hdz-rda/static/css/main.8b4e75bc.chunk.css",
+    "main.js": "/jose-angel-hdz-rda/static/js/main.132b0da3.chunk.js",
+    "main.js.map": "/jose-angel-hdz-rda/static/js/main.132b0da3.chunk.js.map",
     "runtime-main.js": "/jose-angel-hdz-rda/static/js/runtime-main.cf8987ed.js",
     "runtime-main.js.map": "/jose-angel-hdz-rda/static/js/runtime-main.cf8987ed.js.map",
     "static/js/2.3e9832a6.chunk.js": "/jose-angel-hdz-rda/static/js/2.3e9832a6.chunk.js",
     "static/js/2.3e9832a6.chunk.js.map": "/jose-angel-hdz-rda/static/js/2.3e9832a6.chunk.js.map",
     "index.html": "/jose-angel-hdz-rda/index.html",
-    "static/css/main.6fd05fd0.chunk.css.map": "/jose-angel-hdz-rda/static/css/main.6fd05fd0.chunk.css.map",
+    "static/css/main.8b4e75bc.chunk.css.map": "/jose-angel-hdz-rda/static/css/main.8b4e75bc.chunk.css.map",
     "static/js/2.3e9832a6.chunk.js.LICENSE.txt": "/jose-angel-hdz-rda/static/js/2.3e9832a6.chunk.js.LICENSE.txt",
     "static/media/1.jpg.e42cc6a6.jpg": "/jose-angel-hdz-rda/static/media/1.jpg.e42cc6a6.jpg",
     "static/media/CV.eab681ba.pdf": "/jose-angel-hdz-rda/static/media/CV.eab681ba.pdf",
@@ -24,16 +24,17 @@
     "static/media/gmail.70b56411.svg": "/jose-angel-hdz-rda/static/media/gmail.70b56411.svg",
     "static/media/karuta.6daeda1d.jpg": "/jose-angel-hdz-rda/static/media/karuta.6daeda1d.jpg",
     "static/media/menu.28107808.svg": "/jose-angel-hdz-rda/static/media/menu.28107808.svg",
-    "static/media/montecarlo.d1320b22.jpg": "/jose-angel-hdz-rda/static/media/montecarlo.d1320b22.jpg",
+    "static/media/money-time-energy.4573f8c5.jpg": "/jose-angel-hdz-rda/static/media/money-time-energy.4573f8c5.jpg",
+    "static/media/montecarlo.0c225c4d.jpg": "/jose-angel-hdz-rda/static/media/montecarlo.0c225c4d.jpg",
     "static/media/person.a296afc6.svg": "/jose-angel-hdz-rda/static/media/person.a296afc6.svg",
-    "static/media/rsa-keys.d9f2444a.jpg": "/jose-angel-hdz-rda/static/media/rsa-keys.d9f2444a.jpg",
+    "static/media/rsa-keys.bd9cfaca.jpg": "/jose-angel-hdz-rda/static/media/rsa-keys.bd9cfaca.jpg",
     "static/media/senales.502909ca.jpg": "/jose-angel-hdz-rda/static/media/senales.502909ca.jpg",
-    "static/media/sort.3fb28f33.jpg": "/jose-angel-hdz-rda/static/media/sort.3fb28f33.jpg"
+    "static/media/sort.0256e8e5.jpg": "/jose-angel-hdz-rda/static/media/sort.0256e8e5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.cf8987ed.js",
     "static/js/2.3e9832a6.chunk.js",
-    "static/css/main.6fd05fd0.chunk.css",
-    "static/js/main.2fc60d3a.chunk.js"
+    "static/css/main.8b4e75bc.chunk.css",
+    "static/js/main.132b0da3.chunk.js"
   ]
 }
