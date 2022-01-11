@@ -1,7 +1,9 @@
-import Card from '../components/card'
-import carta from '../js/proyectos'
-import '../css/container.css'
+import Card from '../components/card';
+import carta from '../js/proyectos';
+import '../css/container.css';
+
 export default function Container({ language,setShowMenu }) {
+    
     return (
         <div onClick={()=>{
             setShowMenu(false)

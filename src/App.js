@@ -6,6 +6,8 @@ import Footer from './components/footer'
 import Menu from './components/menu'
 import Toggle from './components/toggle'
 
+import 'animate.css';
+
 function App() {
   const [showMenu, setShowMenu] = useState(false)
   const [language,setLanguage] = useState(false)

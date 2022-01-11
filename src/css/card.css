@@ -1,11 +1,11 @@
-.h2{
+.h2 {
   padding: 0.5em;
   font-size: 2rem;
   text-align: center;
 }
 
 .card {
-  position:relative;
+  position: relative;
   display: flex;
   flex-flow: column wrap;
   margin: 1em 0.4em;
@@ -27,7 +27,7 @@
   height: 15em;
 }
 
-.card_see_on_github{
+.card_see_on_github {
   position: absolute;
   top: 11em;
   align-self: center;
@@ -47,11 +47,19 @@
 .card_github {
   width: 3rem;
   cursor: pointer;
+
+  -webkit-transition: all .4s ease;
+  -moz-transition: all .4s ease;
+  -o-transition: all .4s ease;
+  transition: all .4s ease;
+
+  -webkit-transition-duration: .4s;
+  transition-duration: .4s;
 }
 
 .card_github:hover {
-    -webkit-filter: invert(40%) grayscale(100%) brightness(100%) sepia(100%) hue-rotate(-50deg) saturate(400%) contrast(2);
-    filter: invert(40%) grayscale(100%) brightness(100%) sepia(100%) hue-rotate(-50deg) saturate(400%) contrast(2);
+  -webkit-filter: invert(40%) grayscale(100%) brightness(100%) sepia(100%) hue-rotate(-50deg) saturate(400%) contrast(2);
+  filter: invert(40%) grayscale(100%) brightness(100%) sepia(100%) hue-rotate(-50deg) saturate(400%) contrast(2);
 }
 
 .card_h3 {
@@ -64,21 +72,21 @@
   text-align: justify;
 }
 
-.container_lenguajes{
+.container_lenguajes {
   position: absolute;
   bottom: 2em;
   display: flex;
   flex-flow: row wrap;
 }
 
-.container_lenguajes-fondo{
+.container_lenguajes-fondo {
   position: absolute;
   bottom: 0;
   display: flex;
   flex-flow: row wrap;
 }
 
-.lenguajes{
+.lenguajes {
   padding: 0.2em .5em;
   margin: 0.2em;
   background: #52616B;
@@ -86,7 +94,7 @@
   border-radius: 1em;
 }
 
-.container_link_web{
+.container_link_web {
   position: absolute;
   bottom: 0;
   display: flex;
@@ -96,14 +104,22 @@
   background: #CDBBA7;
 }
 
-.link_web{
+.link_web {
   padding: .5em;
   color: #111111;
   text-decoration: none;
   font-weight: bold;
   border-radius: 1em;
+
+  -webkit-transition: all .4s ease;
+  -moz-transition: all .4s ease;
+  -o-transition: all .4s ease;
+  transition: all .4s ease;
+
+  -webkit-transition-duration: .4s;
+  transition-duration: .4s;
 }
 
-.link_web:hover{
+.link_web:hover {
   color: #FDEFEF;
 }
