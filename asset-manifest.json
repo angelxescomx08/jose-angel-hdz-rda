@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jose-angel-hdz-rda/static/css/main.d4d2f846.chunk.css",
-    "main.js": "/jose-angel-hdz-rda/static/js/main.1adadd99.chunk.js",
-    "main.js.map": "/jose-angel-hdz-rda/static/js/main.1adadd99.chunk.js.map",
+    "main.js": "/jose-angel-hdz-rda/static/js/main.7ddd3415.chunk.js",
+    "main.js.map": "/jose-angel-hdz-rda/static/js/main.7ddd3415.chunk.js.map",
     "runtime-main.js": "/jose-angel-hdz-rda/static/js/runtime-main.cf8987ed.js",
     "runtime-main.js.map": "/jose-angel-hdz-rda/static/js/runtime-main.cf8987ed.js.map",
     "static/css/2.a1596f27.chunk.css": "/jose-angel-hdz-rda/static/css/2.a1596f27.chunk.css",
@@ -41,6 +41,6 @@
     "static/css/2.a1596f27.chunk.css",
     "static/js/2.3534799d.chunk.js",
     "static/css/main.d4d2f846.chunk.css",
-    "static/js/main.1adadd99.chunk.js"
+    "static/js/main.7ddd3415.chunk.js"
   ]
 }
