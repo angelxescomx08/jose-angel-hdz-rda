@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/jose-angel-hdz-rda/static/css/main.43cfcae2.chunk.css",
-    "main.js": "/jose-angel-hdz-rda/static/js/main.3fbe60e2.chunk.js",
-    "main.js.map": "/jose-angel-hdz-rda/static/js/main.3fbe60e2.chunk.js.map",
+    "main.css": "/jose-angel-hdz-rda/static/css/main.d4d2f846.chunk.css",
+    "main.js": "/jose-angel-hdz-rda/static/js/main.1adadd99.chunk.js",
+    "main.js.map": "/jose-angel-hdz-rda/static/js/main.1adadd99.chunk.js.map",
     "runtime-main.js": "/jose-angel-hdz-rda/static/js/runtime-main.cf8987ed.js",
     "runtime-main.js.map": "/jose-angel-hdz-rda/static/js/runtime-main.cf8987ed.js.map",
     "static/css/2.a1596f27.chunk.css": "/jose-angel-hdz-rda/static/css/2.a1596f27.chunk.css",
@@ -10,11 +10,12 @@
     "static/js/2.3534799d.chunk.js.map": "/jose-angel-hdz-rda/static/js/2.3534799d.chunk.js.map",
     "index.html": "/jose-angel-hdz-rda/index.html",
     "static/css/2.a1596f27.chunk.css.map": "/jose-angel-hdz-rda/static/css/2.a1596f27.chunk.css.map",
-    "static/css/main.43cfcae2.chunk.css.map": "/jose-angel-hdz-rda/static/css/main.43cfcae2.chunk.css.map",
+    "static/css/main.d4d2f846.chunk.css.map": "/jose-angel-hdz-rda/static/css/main.d4d2f846.chunk.css.map",
     "static/js/2.3534799d.chunk.js.LICENSE.txt": "/jose-angel-hdz-rda/static/js/2.3534799d.chunk.js.LICENSE.txt",
     "static/media/1.jpg.e42cc6a6.jpg": "/jose-angel-hdz-rda/static/media/1.jpg.e42cc6a6.jpg",
     "static/media/CV.eab681ba.pdf": "/jose-angel-hdz-rda/static/media/CV.eab681ba.pdf",
     "static/media/angel.24c226a0.jpg": "/jose-angel-hdz-rda/static/media/angel.24c226a0.jpg",
+    "static/media/animes.78820789.png": "/jose-angel-hdz-rda/static/media/animes.78820789.png",
     "static/media/app.4ae26f21.svg": "/jose-angel-hdz-rda/static/media/app.4ae26f21.svg",
     "static/media/atractor.1a0fb1b3.jpg": "/jose-angel-hdz-rda/static/media/atractor.1a0fb1b3.jpg",
     "static/media/bompilador-booleanas.ff149586.jpg": "/jose-angel-hdz-rda/static/media/bompilador-booleanas.ff149586.jpg",
@@ -31,13 +32,15 @@
     "static/media/person.a296afc6.svg": "/jose-angel-hdz-rda/static/media/person.a296afc6.svg",
     "static/media/rsa-keys.bd9cfaca.jpg": "/jose-angel-hdz-rda/static/media/rsa-keys.bd9cfaca.jpg",
     "static/media/senales.502909ca.jpg": "/jose-angel-hdz-rda/static/media/senales.502909ca.jpg",
-    "static/media/sort.0256e8e5.jpg": "/jose-angel-hdz-rda/static/media/sort.0256e8e5.jpg"
+    "static/media/sort.0256e8e5.jpg": "/jose-angel-hdz-rda/static/media/sort.0256e8e5.jpg",
+    "static/media/tecnologia.d2ab264f.png": "/jose-angel-hdz-rda/static/media/tecnologia.d2ab264f.png",
+    "static/media/videojuegos.d79e7fd7.png": "/jose-angel-hdz-rda/static/media/videojuegos.d79e7fd7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cf8987ed.js",
     "static/css/2.a1596f27.chunk.css",
     "static/js/2.3534799d.chunk.js",
-    "static/css/main.43cfcae2.chunk.css",
-    "static/js/main.3fbe60e2.chunk.js"
+    "static/css/main.d4d2f846.chunk.css",
+    "static/js/main.1adadd99.chunk.js"
   ]
 }
