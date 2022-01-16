@@ -100,3 +100,8 @@ hr {
 input, select {
   vertical-align:middle;
 }
+
+hr{
+  border: none;
+  border-bottom: 2px solid rgb(92, 90, 90);
+}

@@ -20,6 +20,7 @@
 
 .card:hover {
   box-shadow: 7px 7px 15px #000000;
+  transform: translate(0px,-3px);
 }
 
 .card_img {

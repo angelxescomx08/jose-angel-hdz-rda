@@ -7,6 +7,7 @@ import Menu from './components/menu'
 import Toggle from './components/toggle'
 
 import 'animate.css';
+import About from './components/about'
 
 function App() {
   const [showMenu, setShowMenu] = useState(false)
@@ -18,6 +19,7 @@ function App() {
       </Menu>
       <Nav language={language} setShowMenu={setShowMenu} />
       <Typical language={language} setShowMenu={setShowMenu}/>
+      <About language={language} setShowMenu={setShowMenu}/>
       <Container language={language} setShowMenu={setShowMenu}/>
       <Footer setShowMenu={setShowMenu} language={language}/>
     </>

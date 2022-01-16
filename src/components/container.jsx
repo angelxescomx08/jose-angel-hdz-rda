@@ -9,6 +9,7 @@ export default function Container({ language,setShowMenu }) {
             setShowMenu(false)
         }}>
             <h2 className="h2">{language ? 'Projects' : 'Proyectos'}</h2>
+            <hr/>
             <section className="card_container">
                 {
                     carta.map(item => {

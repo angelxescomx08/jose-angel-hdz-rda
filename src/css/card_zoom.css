@@ -1,0 +1,50 @@
+.card-zoom {
+    position: relative;
+    max-width: 100%;
+    width: 320px;
+    margin: 15px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.card-zoom img {
+    width: 100%;
+    transition-duration: 0.3s;
+}
+
+.card-zoom:hover img {
+    transform: scale(110%);
+    filter: brightness(40%);
+}
+
+.card-zoom-container-texto {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 60%;
+    opacity: 0;
+    transition-duration: 0.3s;
+}
+
+.card-zoom:hover .card-zoom-container-texto{
+    opacity: 1;
+}
+
+.card-zoom-container-texto h3{
+    font-size: 26px;
+}
+
+.card-zoom-container-texto p{
+    font-size: 16px;
+    text-align: justify;
+}
+
+.card-zoom-container-texto hr{
+    border: none;
+    border-bottom: 2px solid #fff;
+}
+
+.card-zoom-container-texto h3, .card-zoom-container-texto p {
+    color: #fff;
+}
