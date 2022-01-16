@@ -11,9 +11,9 @@ const About = ({ language, setShowMenu }) => {
                 {
                     gustos.map(gusto=>{
                         return <CardZoom key={gusto.titulo}
-                                        titulo={language?gusto.titulo:gusto.title}
+                                        titulo={language?gusto.title:gusto.titulo}
                                         img={gusto.img}
-                                        descripcion={language?gusto.descripcion:gusto.description}/>
+                                        descripcion={language?gusto.description:gusto.descripcion}/>
                     })
                 }
             </div>
